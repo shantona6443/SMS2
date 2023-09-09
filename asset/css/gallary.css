@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+					/**============ START GALLERY PART ============**/
+
+#gallary_section{
+    padding-top: 70px;
+    padding-bottom: 70px;
+}
+   
+#gallary_section .row{
+    background: #fffffffa;
+    border: 1px solid #000;
+}
+
+#gallary_section h4{
+    color: #000;
+    font-size: 16px;
+}
+
+.gallary_part img{
+    height: 100%;
+    width: 100%;
+    border: 1px solid #000;
+}
+.gallary_part{
+    padding: 20px 10%;
+}
+#gallary_section .gallary{
+    background: #609513;
+}
+                    

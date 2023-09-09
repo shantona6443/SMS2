@@ -1,0 +1,21 @@
+#routine_section{
+    padding-top: 70px;
+    padding-bottom: 70px;
+}
+   
+#routine_section .row{
+    background: #fffffffa;
+    border: 1px solid #000;
+}
+
+#routine_section h4{
+    color: #000;
+    font-size: 16px;
+}
+#routine_section .gallary{
+    background: #609513;
+}
+#routine_section .table{
+    text-align: center;
+    box-sizing: border-box;
+}
